@@ -33,7 +33,7 @@ Bundle 'ervandew/supertab'
 " Fast editing
 "--------------
 "Bundle 'tpope/vim-surround'
-Bundle 'scrooloose/nerdcommenter'                       "快速注释插件
+Bundle 'scrooloose/nerdcommenter'
 "Bundle 'sjl/gundo.vim'
 "Bundle 'godlygeek/tabular'
 "Bundle 'nathanaelkane/vim-indent-guides'
@@ -107,4 +107,4 @@ Bundle 'shelonx/vim-vividchalk'
 "Bundle 'fisadev/fisa-vim-colorscheme'
 "Bundle 'tomasr/molokai'
 
-failetype plugin indent on     " required!
+"failetype plugin indent on     " required!
